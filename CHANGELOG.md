@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-17)
+
+<section class="features">
+
+### Features
+
+-   [`3788752`](https://github.com/stdlib-js/stdlib/commit/378875214f365be77c596946bc773eb51b90cba0) - add c implementation for `@stdlib/stats-base/dists/logistic/logcdf` [(#4380)](https://github.com/stdlib-js/stdlib/pull/4380)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+[#3736](https://github.com/stdlib-js/stdlib/issues/3736), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3788752`](https://github.com/stdlib-js/stdlib/commit/378875214f365be77c596946bc773eb51b90cba0) - **feat:** add c implementation for `@stdlib/stats-base/dists/logistic/logcdf` [(#4380)](https://github.com/stdlib-js/stdlib/pull/4380) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
 
 </details>
@@ -36,10 +47,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Gopi Kishan
+-   Philipp Burckhardt
 
 </section>
 
