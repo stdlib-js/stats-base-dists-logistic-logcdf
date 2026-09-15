@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c2daaa1`](https://github.com/stdlib-js/stdlib/commit/c2daaa10b32a1218336f46d52430274ce1aa459f) - **test:** migrate `stats/base/dists/logistic/logcdf` to ULP-based assertions [(#15229)](https://github.com/stdlib-js/stdlib/pull/15229) _(by Athan Reines)_
 -   [`4f49c25`](https://github.com/stdlib-js/stdlib/commit/4f49c2513625f43f6a7d58d2bb577965289ba920) - **docs:** clean-up [(#14454)](https://github.com/stdlib-js/stdlib/pull/14454) _(by Philipp Burckhardt)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
